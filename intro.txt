@@ -1,1 +1,3 @@
-Hari pertama belajar pengembangan aplikasi berbasis web
+Hari pertama belajar pengembangan aplikasi berbasis web dan belajar git
+
+ini adalah baris baru
